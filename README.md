@@ -1,3 +1,14 @@
+#basic overview - 
+Instagram clone with Posts :
+
+![Screenshot (31)](https://user-images.githubusercontent.com/83503956/120889114-4d66d900-c619-11eb-835d-4011c8043ce1.png)
+
+With Authentication :
+![Screenshot (32)](https://user-images.githubusercontent.com/83503956/120889131-5bb4f500-c619-11eb-8b77-9a26041015c7.png)
+
+Checkout the Hosted website here :  https://instagram-clone-e1a86.web.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
