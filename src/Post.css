@@ -1,0 +1,79 @@
+.post{
+    max-width: 500px;
+    background-color: white;
+    border: 1px solid lightgray;
+    margin-bottom: 30px;
+    /* position: relative; */
+}
+
+.post_image{
+    width: 100%;
+    object-fit: contain;
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+}
+
+.post_caption{
+    font-weight: 400;
+    font-family: 'Baloo Tammudu 2', cursive;
+    margin-left: 23px;
+    padding: 10px;
+}
+
+
+.post_header{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.post_username{
+    margin-right: 20px;
+}
+
+
+.apppost{
+    padding: 20px;
+}
+
+
+.post_comment{
+    display: flex;
+    margin-top: 10px;
+}
+
+.post_input{
+    flex:1;
+    outline: none;
+    padding: 8px;
+    border: 1px solid rgb(189, 184, 184);
+}
+
+
+.post_button{
+    flex:0;
+    border:none;
+    background-color: #097CEB;
+    padding: 8px;
+    color: white;
+    font-weight: 500;
+}
+
+.like{
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-size: 12px;
+}
+
+.comments{
+    margin-left: 30px;
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-size: 12px;
+}
+
+
+.likebutton{
+    margin-left: 10px;
+}

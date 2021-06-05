@@ -1,0 +1,29 @@
+.imageupload{
+    display: flex;
+    flex-direction: column;
+    width:60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    /* position: fixed;
+    bottom: 0; */
+    margin-bottom: auto;
+    border: 2px solid lightgray;
+    padding: 10px;
+}
+
+.progress{
+    width:100%;
+    padding: 10px;
+}
+
+
+.text{
+    padding: 10px;
+    margin-top: 10px;
+
+}
+
+.file{
+    padding: 0px;
+}
